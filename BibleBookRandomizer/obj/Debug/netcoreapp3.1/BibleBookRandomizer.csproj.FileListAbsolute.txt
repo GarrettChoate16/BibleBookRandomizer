@@ -1,0 +1,14 @@
+C:\Users\16144\Desktop\Projects\GitHub\BibleBookRandomizer\BibleBookRandomizer\bin\Debug\netcoreapp3.1\BibleBookRandomizer.exe
+C:\Users\16144\Desktop\Projects\GitHub\BibleBookRandomizer\BibleBookRandomizer\bin\Debug\netcoreapp3.1\BibleBookRandomizer.deps.json
+C:\Users\16144\Desktop\Projects\GitHub\BibleBookRandomizer\BibleBookRandomizer\bin\Debug\netcoreapp3.1\BibleBookRandomizer.runtimeconfig.json
+C:\Users\16144\Desktop\Projects\GitHub\BibleBookRandomizer\BibleBookRandomizer\bin\Debug\netcoreapp3.1\BibleBookRandomizer.runtimeconfig.dev.json
+C:\Users\16144\Desktop\Projects\GitHub\BibleBookRandomizer\BibleBookRandomizer\bin\Debug\netcoreapp3.1\BibleBookRandomizer.dll
+C:\Users\16144\Desktop\Projects\GitHub\BibleBookRandomizer\BibleBookRandomizer\bin\Debug\netcoreapp3.1\BibleBookRandomizer.pdb
+C:\Users\16144\Desktop\Projects\GitHub\BibleBookRandomizer\BibleBookRandomizer\obj\Debug\netcoreapp3.1\BibleBookRandomizer.csproj.AssemblyReference.cache
+C:\Users\16144\Desktop\Projects\GitHub\BibleBookRandomizer\BibleBookRandomizer\obj\Debug\netcoreapp3.1\BibleBookRandomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16144\Desktop\Projects\GitHub\BibleBookRandomizer\BibleBookRandomizer\obj\Debug\netcoreapp3.1\BibleBookRandomizer.AssemblyInfoInputs.cache
+C:\Users\16144\Desktop\Projects\GitHub\BibleBookRandomizer\BibleBookRandomizer\obj\Debug\netcoreapp3.1\BibleBookRandomizer.AssemblyInfo.cs
+C:\Users\16144\Desktop\Projects\GitHub\BibleBookRandomizer\BibleBookRandomizer\obj\Debug\netcoreapp3.1\BibleBookRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\16144\Desktop\Projects\GitHub\BibleBookRandomizer\BibleBookRandomizer\obj\Debug\netcoreapp3.1\BibleBookRandomizer.dll
+C:\Users\16144\Desktop\Projects\GitHub\BibleBookRandomizer\BibleBookRandomizer\obj\Debug\netcoreapp3.1\BibleBookRandomizer.pdb
+C:\Users\16144\Desktop\Projects\GitHub\BibleBookRandomizer\BibleBookRandomizer\obj\Debug\netcoreapp3.1\BibleBookRandomizer.genruntimeconfig.cache
